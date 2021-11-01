@@ -1,0 +1,10 @@
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\bin\Release\TelescienceCalc.exe.config
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\bin\Release\TelescienceCalc.exe
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\bin\Release\TelescienceCalc.pdb
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Release\TelescienceCalc.Calibration.resources
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Release\TelescienceCalc.Form1.resources
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Release\TelescienceCalc.MessageError.resources
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Release\TelescienceCalc.Properties.Resources.resources
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Release\TelescienceCalc.csproj.GenerateResource.Cache
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Release\TelescienceCalc.exe
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Release\TelescienceCalc.pdb

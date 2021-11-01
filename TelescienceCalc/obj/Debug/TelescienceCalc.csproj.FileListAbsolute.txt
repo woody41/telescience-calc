@@ -1,0 +1,23 @@
+c:\users\woody\documents\visual studio 2012\Projects\TelescienceCalc\TelescienceCalc\bin\Debug\TelescienceCalc.exe.config
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\bin\Debug\TelescienceCalc.exe
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\bin\Debug\TelescienceCalc.pdb
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Debug\TelescienceCalc.csprojResolveAssemblyReference.cache
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Debug\TelescienceCalc.Calibration.resources
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Debug\TelescienceCalc.Form1.resources
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Debug\TelescienceCalc.Properties.Resources.resources
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Debug\TelescienceCalc.csproj.GenerateResource.Cache
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Debug\TelescienceCalc.exe
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Debug\TelescienceCalc.pdb
+C:\Users\woody\Documents\Visual Studio 2012\Projects\TelescienceCalc\TelescienceCalc\obj\Debug\TelescienceCalc.MessageError.resources
+C:\Projects\telescience-calc\TelescienceCalc\bin\Debug\TelescienceCalc.exe.config
+C:\Projects\telescience-calc\TelescienceCalc\bin\Debug\TelescienceCalc.exe
+C:\Projects\telescience-calc\TelescienceCalc\bin\Debug\TelescienceCalc.pdb
+C:\Projects\telescience-calc\TelescienceCalc\obj\Debug\TelescienceCalc.csproj.AssemblyReference.cache
+C:\Projects\telescience-calc\TelescienceCalc\obj\Debug\TelescienceCalc.Calibration.resources
+C:\Projects\telescience-calc\TelescienceCalc\obj\Debug\TelescienceCalc.Form1.resources
+C:\Projects\telescience-calc\TelescienceCalc\obj\Debug\TelescienceCalc.MessageError.resources
+C:\Projects\telescience-calc\TelescienceCalc\obj\Debug\TelescienceCalc.Properties.Resources.resources
+C:\Projects\telescience-calc\TelescienceCalc\obj\Debug\TelescienceCalc.csproj.GenerateResource.cache
+C:\Projects\telescience-calc\TelescienceCalc\obj\Debug\TelescienceCalc.csproj.CoreCompileInputs.cache
+C:\Projects\telescience-calc\TelescienceCalc\obj\Debug\TelescienceCalc.exe
+C:\Projects\telescience-calc\TelescienceCalc\obj\Debug\TelescienceCalc.pdb
